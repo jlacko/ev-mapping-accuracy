@@ -51,6 +51,8 @@ rsconnect/
 # actual project files...
 ocm-export/
 *osm.pbf
+*osh.pbf
+*.opl
 
 # digested datafiles
 data/
